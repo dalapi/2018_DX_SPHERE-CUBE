@@ -1,0 +1,114 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DX_170424_01_window.vcxproj, DX_170524_.vcxproj, DX_170614_.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  xmodel.cpp
+  UI.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\ui.cpp(66): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\ui.cpp(72): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\ui.cpp(83): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+  TutorialScene.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\tutorialscene.cpp(86): warning C4305: '+=': 'double' から 'float' へ切り詰めます。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\tutorialscene.cpp(88): warning C4305: '-=': 'double' から 'float' へ切り詰めます。
+  TitleScene.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\titlescene.cpp(98): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\titlescene.cpp(110): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Timer.cpp
+  Texture.cpp
+  Shadow.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\shadow.cpp(78): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\shadow.cpp(85): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  SceneManager.cpp
+  ResultScene.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\resultscene.cpp(62): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  Sprite.cpp
+  sound.cpp
+  Score.cpp
+  GameScene.cpp
+  polygon.cpp
+  Player.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\player.cpp(133): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Object.cpp
+  Number.cpp
+  MeshField.cpp
+  Map.cpp
+  main.cpp
+  コードを生成中...
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\texture.cpp(24): warning C4715: 'Texture::Init': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  light.cpp
+  Item.cpp
+  input.cpp
+  imgui_impl_dx9.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  GUI.cpp
+  FieldController.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\fieldcontroller.cpp(36): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180317_01_file\sources\fieldcontroller.cpp(37): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  Enemy.cpp
+  Effects.cpp
+  Effect.cpp
+  DirectX.cpp
+  Cube.cpp
+  Controller.cpp
+  Conflict.cpp
+  Camera.cpp
+  Bullet.cpp
+  BlockStage.cpp
+  BillBoard.cpp
+  コードを生成中...
+  コンパイル中...
+  BaseScene.cpp
+  BackGround.cpp
+  コードを生成中...
+Effekseer.lib(Effekseer.Color.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Color.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.CriticalSection.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.CriticalSection.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.DefaultEffectLoader.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.DefaultEffectLoader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.DefaultFile.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.DefaultFile.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Effect.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Effect.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.EffectNode.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.EffectNode.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.EffectNodeModel.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.EffectNodeModel.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.EffectNodeRibbon.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.EffectNodeRibbon.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.EffectNodeRing.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.EffectNodeRing.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.EffectNodeSprite.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.EffectNodeSprite.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.EffectNodeTrack.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.EffectNodeTrack.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.FCurves.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.FCurves.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Instance.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Instance.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.InstanceContainer.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.InstanceContainer.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.InstanceGlobal.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.InstanceGlobal.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.InstanceGroup.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.InstanceGroup.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Manager.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Manager.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Matrix43.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Matrix43.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Matrix44.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Matrix44.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.RectF.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.RectF.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Setting.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Setting.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Vector2D.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Vector2D.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Effekseer.Vector3D.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Effekseer.Vector3D.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Culling3D.Grid.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Culling3D.Grid.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Culling3D.Layer.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Culling3D.Layer.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Culling3D.Matrix44.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Culling3D.Matrix44.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Culling3D.ObjectInternal.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Culling3D.ObjectInternal.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Culling3D.ReferenceObject.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Culling3D.ReferenceObject.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Culling3D.Vector3DF.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Culling3D.Vector3DF.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+Effekseer.lib(Culling3D.WorldInternal.obj) : warning LNK4099: PDB 'effekseer.pdb' が 'Effekseer.lib(Culling3D.WorldInternal.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.DeviceObject.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.DeviceObject.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.IndexBuffer.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.IndexBuffer.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.ModelLoader.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.ModelLoader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.ModelRenderer.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.ModelRenderer.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.Renderer.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.Renderer.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.RenderState.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.RenderState.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.Shader.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.Shader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.TextureLoader.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.TextureLoader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRendererDX9.VertexBuffer.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRendererDX9.VertexBuffer.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRenderer.IndexBufferBase.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRenderer.IndexBufferBase.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRenderer.ModelRendererBase.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRenderer.ModelRendererBase.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRenderer.RenderStateBase.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRenderer.RenderStateBase.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRenderer.VertexBufferBase.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRenderer.VertexBufferBase.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRenderer.DDSTextureLoader.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRenderer.DDSTextureLoader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRenderer.DXTK.DDSTextureLoader.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRenderer.DXTK.DDSTextureLoader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerRendererDX9.lib(EffekseerRenderer.PngTextureLoader.obj) : warning LNK4099: PDB 'effekseer_renderer_dx9.pdb' が 'EffekseerRendererDX9.lib(EffekseerRenderer.PngTextureLoader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_renderer_dx9.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.Sound.obj) : warning LNK4099: PDB 'effekseer_sound_xaudio2.pdb' が 'EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.Sound.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_sound_xaudio2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.SoundLoader.obj) : warning LNK4099: PDB 'effekseer_sound_xaudio2.pdb' が 'EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.SoundLoader.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_sound_xaudio2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.SoundPlayer.obj) : warning LNK4099: PDB 'effekseer_sound_xaudio2.pdb' が 'EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.SoundPlayer.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_sound_xaudio2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.SoundVoice.obj) : warning LNK4099: PDB 'effekseer_sound_xaudio2.pdb' が 'EffekseerSoundXAudio2.lib(EffekseerSoundXAudio2.SoundVoice.obj)' で、または '\\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\effekseer_sound_xaudio2.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  DX_170424_01_window.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\DX_170619_01.exe
+  DX_170424_01_window.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180317_01_file\Debug\DX_170619_01.pdb (Full PDB)

@@ -1,0 +1,17 @@
+﻿  BillBoard.cpp
+  Effect.cpp
+  MeshField.cpp
+  polygon.cpp
+  Sprite.cpp
+  Shadow.cpp
+Shadow.cpp(78): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+Shadow.cpp(85): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+  Texture.cpp
+  コード生成しています。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180208_01_ effekserr\texture.cpp(24): warning C4715: 'Texture::Init': 値を返さないコントロール パスがあります。
+  25 of 1128 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    6 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  DX_170424_01_window.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180208_01_ effekserr\Release\DX_170619_01.exe
+  DX_170424_01_window.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\DirextX_3D\DX_180208_01_ effekserr\Release\DX_170619_01.pdb (Full PDB)

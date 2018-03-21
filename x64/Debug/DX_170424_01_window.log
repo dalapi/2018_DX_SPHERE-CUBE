@@ -1,0 +1,78 @@
+﻿  xmodel.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  UI.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  TitleScene.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Timer.cpp
+  Texture.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Shadow.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  SceneManager.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  ResultScene.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Sprite.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  sound.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Score.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\score.cpp(49): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  GameScene.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  polygon.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Player.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Object.cpp
+  Number.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  MeshWall.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  MeshField.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  main.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  light.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  input.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(53): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [36]' から 'LPCWSTR' へ変換できません。
+  \\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(53): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(60): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [19]' から 'LPCWSTR' へ変換できません。
+  \\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(60): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(67): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [55]' から 'LPCWSTR' へ変換できません。
+  \\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(67): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(75): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': 引数 2 を 'const char [47]' から 'LPCWSTR' へ変換できません。
+  \\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\input.cpp(75): note: 指示された型は関連がありません。変換には reinterpret_cast、C スタイル キャストまたは関数スタイルのキャストが必要です。
+  imgui_impl_dx9.cpp
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  GUI.cpp
+  FieldController.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Enemy.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Effect.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Cube.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Controller.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Conflict.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Camera.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  Bullet.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  BlockStage.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  BillBoard.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  BaseScene.cpp
+  BackGround.cpp
+\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_180127_01_ vector\main.h(10): fatal error C1083: include ファイルを開けません。'd3dx9.h':No such file or directory
+  コードを生成中...

@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\program files (x86)\microsoft directx sdk (june 2010)\include\</FILEPATH>
+      <FILENAME>dinput.h</FILENAME>
+      <LINE>4321</LINE>
+      <COLUMN>25</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>'joyConfigChanged' に対する整合性のない注釈: このインスタンスには 注釈なし が含まれます。c:\program files (x86)\windows kits\8.1\include\um\joystickapi.h(444) を参照してください。</DESCRIPTION>
+    <FUNCTION>joyConfigChanged</FUNCTION>
+    <DECORATED>joyConfigChanged@4</DECORATED>
+    <FUNCLINE>4321</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>33</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>28251</DEFECTCODE>
+    <DESCRIPTION>'WinMain' に対する整合性のない注釈: このインスタンスには 注釈なし が含まれます。c:\program files (x86)\windows kits\8.1\include\um\winbase.h(905) を参照してください。</DESCRIPTION>
+    <FUNCTION>WinMain</FUNCTION>
+    <DECORATED>WinMain@16</DECORATED>
+    <FUNCLINE>33</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+      <FILENAME>main.cpp</FILENAME>
+      <LINE>265</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6214</DEFECTCODE>
+    <DESCRIPTION>意味の異なる整数型の間でのキャストです: HRESULT からブール型。</DESCRIPTION>
+    <FUNCTION>Init</FUNCTION>
+    <DECORATED>?Init@@YA_NPAUHINSTANCE__@@PAUHWND__@@H@Z</DECORATED>
+    <FUNCLINE>188</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+      <FILENAME>meshfield.cpp</FILENAME>
+      <LINE>89</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>'pIndex' への書き込み中にバッファー オーバーランが発生しました: 書き込み可能なサイズは 'nMaxIndexNum*2' バイトですが、'4' バイトを書き込む可能性があります。</DESCRIPTION>
+    <FUNCTION>InitMeshField</FUNCTION>
+    <DECORATED>?InitMeshField@@YAXHH@Z</DECORATED>
+    <FUNCLINE>28</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>30</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>31</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>34</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>35</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>38</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>42</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>46</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>50</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>宣言</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'pIndex' は 1 要素の配列です (2 バイト)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>54</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>55</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>3</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>85</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分岐</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>このループに入る ('n&lt;nMaxIndexNum' と仮定)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>3</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>宣言</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'n' は 1 と同じである可能性があります</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshfield.cpp</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用法</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'pIndex[1]' への書き込みは無効です (書き込み可能な範囲は 0 から 0 まで)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+      <FILENAME>meshwall.cpp</FILENAME>
+      <LINE>99</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6386</DEFECTCODE>
+    <DESCRIPTION>'pIndex' への書き込み中にバッファー オーバーランが発生しました: 書き込み可能なサイズは 'nMaxIndexNum*2' バイトですが、'4' バイトを書き込む可能性があります。</DESCRIPTION>
+    <FUNCTION>InitMeshWall</FUNCTION>
+    <DECORATED>?InitMeshWall@@YAXHH@Z</DECORATED>
+    <FUNCLINE>37</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>39</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>40</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>43</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>44</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>47</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>48</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>49</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>52</LINE>
+        <COLUMN>28</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>53</LINE>
+        <COLUMN>27</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>56</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>57</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>59</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>60</LINE>
+        <COLUMN>8</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>宣言</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'pIndex' は 1 要素の配列です (2 バイト)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>63</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>64</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>65</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>66</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>69</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>3</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>5</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>10</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>分岐</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>このループに入る ('n&lt;nMaxIndexNum' と仮定)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>98</LINE>
+        <COLUMN>3</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>宣言</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'n' は 1 と同じである可能性があります</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\mac\home\documents\visual studio 2015\projects\dirextx_3d\dx_171203_01_\</FILEPATH>
+        <FILENAME>meshwall.cpp</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>12</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>使用法</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'pIndex[1]' への書き込みは無効です (書き込み可能な範囲は 0 から 0 まで)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>
